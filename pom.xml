@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>szu.panda</groupId>
+  <artifactId>java-se-practice</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>java-se-practice</name>
+  <description>java-se-practice</description>
+  <modules>
+  	<module>02-variables</module>
+  	<module>03-object-oriented</module>
+  	<module>04-exception</module>
+  	<module>05-array</module>
+  	<module>06-class</module>
+  </modules>
+</project>
